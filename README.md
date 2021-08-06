@@ -4,4 +4,3 @@ Hi there..
  Have Special love for Java and am always excited to learn something new.
  Currently, learning python and doing the practice of DS & algorithms.
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyaxtx)](https://github.com/anuraghazra/github-readme-stats)
