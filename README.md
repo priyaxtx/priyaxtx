@@ -2,5 +2,6 @@
 Hi there..
  I'm Priya lives in India. Completed My Graduation in Information Technology.
  Have Special love for Java and always excited to learn something new.
- Currently, learning python and doing the practice of DS & algorithms.
+ Currently, learning unity,python and doing the practice of DS & algorithms.
+ Last but not least making some game!!!
  
