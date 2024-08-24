@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi there! I'm Priya Tripathi, a passionate software developer from India with over 2 years of experience. I hold a degree in Information Technology and have a special love for Java. I’m always excited to learn new technologies and am currently diving into Unity, Python, and practicing data structures and algorithms. In my spare time, I enjoy working on java projects and game development projects and tackling challenging coding problems.
+Hi there! I'm Priya Tripathi, a passionate software developer from India with over 2 years of experience. I hold a degree in Information Technology and have a special love for Java. I’m always excited to learn new technologies and am currently diving into Unity. In my spare time, I enjoy working on java projects and game development projects and tackling challenging coding problems.
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,css,js,html,firebase&unity=3)](https://skillicons.dev)
