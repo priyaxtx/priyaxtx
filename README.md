@@ -6,7 +6,7 @@ Hi there :wave: I'm Priya, a passionate software developer from India with over 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,css,js,html,unity,firebase,getbrain&unity=3)](https://skillicons.dev)
 
-- **Languages & Frameworks:** Java, Spring Boot, MySQL, CSS, HTML, JavaScript, React, C#
+- **Languages & Frameworks:** Java, Spring Boot,Spring MVC,Servlet, MySQL, CSS, HTML, JavaScript, React, C#
 - **Tools & Technologies:** Git, Firebase, Unity, Maven
 
 ## Quote
