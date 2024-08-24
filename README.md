@@ -20,7 +20,7 @@ Hi there! I'm Priya Tripathi, a passionate software developer from India with ov
 Feel free to connect with me through the following platforms:
 - [LinkedIn](https://www.linkedin.com/in/priyaxtx/) 
 - [HackerRank](https://www.hackerrank.com/profile/priyatripathi441)
-- [Email] priyatripathi44222@gmail.com
+- [Email](priyatripathi44222@gmail.com)
 
 ---
 
