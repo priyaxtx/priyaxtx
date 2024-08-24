@@ -4,4 +4,5 @@ Hi there..
  Have Special love for Java and always excited to learn something new.
  Currently, learning unity,python and doing the practice of DS & algorithms.
  Last but not least making some game!!!
+[![My Skills](https://skills.thijs.gg/icons?i=java,sql,css,js,html,unity)](https://skills.thijs.gg)
  
