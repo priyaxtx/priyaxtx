@@ -6,6 +6,7 @@ Hi there! I'm Priya Tripathi, a passionate software developer from India with ov
 
 ## Skills
 [![My Skills](https://skills.thijs.gg/icons?i=java,springboot,mysql,css,html,js,react,git,firebase,unity,csharp,maven)](https://skills.thijs.gg)
+<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/firebase-icon.svg" alt="Firebase Icon" />
 
 - **Languages & Frameworks:** Java, Spring Boot, MySQL, CSS, HTML, JavaScript, React, C#
 - **Tools & Technologies:** Git, Firebase, Unity, Maven
