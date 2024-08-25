@@ -11,7 +11,7 @@ Hi there 👋 I'm a passionate software developer from India with over **2 years
 
 ## Quote
 
-> “My little world revolves around: 99 little bugs in the code. 99 little bugs in the code. Take one down, patch it around. 127 little bugs in the code …”
+<blockquote style="border-left: 4px solid #4CAF50; padding-left: 16px; margin-left: 0; font-style: italic;"> “My little world revolves around:<br> 99 little bugs in the code.<br> 99 little bugs in the code.<br> Take one down, patch it around.<br> 127 little bugs in the code …” </blockquote>
 
 ## Get in Touch
 
