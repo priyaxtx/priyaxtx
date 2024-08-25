@@ -11,8 +11,6 @@ Hi there 👋 I'm a passionate software developer from India with over **2 years
 
 ## Quote
 
-![Tokyo Night Background](https://link-to-your-background-image.com/tokyo-night-background.png)
-
 > 🌌 **"In my little universe of code:**  
 > 🐛 99 bugs in the code, 99 bugs in the code.  
 > 🛠️ Take one down, patch it around,  
