@@ -9,12 +9,7 @@ Hi there 👋 I'm a passionate software developer from India with over **2 years
 - **Languages & Frameworks:** Java, Spring Boot,Spring MVC,Servlet, MySQL, CSS, HTML, JavaScript, React, C#
 - **Tools & Technologies:** Git, Firebase, Unity, Maven
 
-## Quote
-
-> 🌌 **"In my little universe of code:**  
-> 🐛 99 bugs in the code, 99 bugs in the code.  
-> 🛠️ Take one down, patch it around,  
-> and voilà! 127 bugs still to be found...** 🌟
+![Funny Coding GIF](https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif)
 
 ## Get in Touch
 
