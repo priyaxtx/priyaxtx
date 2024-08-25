@@ -22,8 +22,8 @@ Feel free to connect with me through the following platforms:
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=priyaxtx&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=priyaxtx&langs_count=5&theme=tokyonight)]()
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/java/?username=priyaxtx&langs_count=5&theme=tokyonight)]()
+
 ---
 
 Thanks for visiting my GitHub profile! 🚀
