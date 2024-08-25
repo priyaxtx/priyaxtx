@@ -23,6 +23,7 @@ Feel free to connect with me through the following platforms:
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=priyaxtx&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=priyaxtx&langs_count=5&theme=tokyonight)]()
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=priyaxtx&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
