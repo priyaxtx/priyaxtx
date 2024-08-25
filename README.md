@@ -17,7 +17,6 @@ Feel free to connect with me through the following platforms:
 - [LinkedIn](https://www.linkedin.com/in/priyaxtx/) 
 - [HackerRank](https://www.hackerrank.com/profile/priyatripathi441)
 - [Email](priyatripathi44222@gmail.com)
-![snake gif](https://github.com/priyaxtx/priyaxtx/blob/output/github-contribution-grid-snake.gif)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=priyaxtx&count_private=true&theme=tokyonight&showicons=true)]()
 [![Priya's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyaxtx&layout=compact&theme=tokyonight&card_width=380)]()
