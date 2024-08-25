@@ -11,7 +11,12 @@ Hi there 👋 I'm a passionate software developer from India with over **2 years
 
 ## Quote
 
-<blockquote style="border-left: 4px solid #4CAF50; padding-left: 16px; margin-left: 0; font-style: italic;"> “My little world revolves around:<br> 99 little bugs in the code.<br> 99 little bugs in the code.<br> Take one down, patch it around.<br> 127 little bugs in the code …” </blockquote>
+![Tokyo Night Background](https://link-to-your-background-image.com/tokyo-night-background.png)
+
+> 🌌 **"In my little universe of code:**  
+> 🐛 99 bugs in the code, 99 bugs in the code.  
+> 🛠️ Take one down, patch it around,  
+> and voilà! 127 bugs still to be found...** 🌟
 
 ## Get in Touch
 
