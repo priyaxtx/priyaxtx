@@ -4,7 +4,7 @@
 Hi there 👋 I'm a passionate software developer from India with over **2 years** of experience. I hold a degree in Information Technology and have a special love for Java. I’m always excited to learn new technologies and am currently diving into Unity. In my spare time, I enjoy working on Java projects, game development projects, and tackling challenging coding problems.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,css,js,html,unity,firebase,getbrain&unity=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,css,js,html,unity,firebase,react,c#&unity=3)](https://skillicons.dev)
 
 - **Languages & Frameworks:** Java, Spring Boot,Spring MVC,Servlet, MySQL, CSS, HTML, JavaScript, React, C#
 - **Tools & Technologies:** Git, Firebase, Unity, Maven
