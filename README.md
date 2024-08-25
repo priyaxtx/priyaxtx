@@ -2,6 +2,7 @@
 
 ## A Bit About Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="40" height="40" /> 
 Hi there 👋 I'm a passionate software developer from India with over **2 years** of experience. I hold a degree in Information Technology and have a special love for Java. I’m always excited to learn new technologies and am currently diving into Unity. In my spare time, I enjoy working on Java projects, game development projects, and tackling challenging coding problems.
+<img src="[https://raw.githubusercontent.com](https://octodex.github.com/nuxtocat/)/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="40" height="40" />
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,css,js,html,unity,firebase,react,c#&unity=3)](https://skillicons.dev)
