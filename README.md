@@ -24,5 +24,6 @@ Feel free to connect with me through the following platforms:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=priyaxtx&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
+!(https://tenor.com/8qF4.gif)
 
 Thanks for visiting my GitHub profile! 🚀
