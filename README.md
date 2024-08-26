@@ -24,7 +24,7 @@ Feel free to connect with me through the following platforms:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=priyaxtx&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
-<div class="tenor-gif-embed" data-postid="14363162" data-share-method="host" data-aspect-ratio="1.23333" data-width="100%"><a href="https://tenor.com/view/thank-you-i-love-you-ily-thanks-gif-14363162">Thank You I Love You GIF</a>from <a href="https://tenor.com/search/thank+you-gifs">Thank You GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+[![Thank You I Love You GIF](https://media.tenor.com/images/6e01484c6c5e0c6b5e0c8ff2b9d528d4/tenor.gif)](https://tenor.com/view/thank-you-i-love-you-ily-thanks-gif-14363162)
 
 
 Thanks for visiting my GitHub profile! 🚀
