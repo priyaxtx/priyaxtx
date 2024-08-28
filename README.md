@@ -8,7 +8,7 @@ Hi there 👋 I'm a passionate software developer from India with over **2 years
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,css,js,html,unity,firebase,react,c#,TortoiseSVN&unity=3)](https://skillicons.dev)
 
 - **Languages & Frameworks:** Java, Spring Boot,Spring MVC,Servlet, MySQL, CSS, HTML, JavaScript, React, C#
-- **Tools & Technologies:** Git, Firebase, Unity, Maven
+- **Tools & Technologies:** Git,TortoiseSVN, Firebase, Unity, Maven 
 
 ![Funny Coding GIF](https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif)
 
