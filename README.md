@@ -15,7 +15,7 @@ Hi there 👋 I'm a passionate software developer from India with over **2 years
 ## Get in Touch
 
 Feel free to connect with me through the following platforms:
-- [LinkedIn](https://https://www.linkedin.com/in/priya44222/) 
+- [LinkedIn](https://www.linkedin.com/in/priya44222/) 
 - [HackerRank](https://www.hackerrank.com/profile/priyatripathi441)
 - [Email](priyatripathi44222@gmail.com)
 
